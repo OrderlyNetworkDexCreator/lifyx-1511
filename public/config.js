@@ -35,7 +35,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_KEYWORDS": "dex, crypto, exchange, lifyx,",
   "VITE_AVAILABLE_LANGUAGES": "en,zh,vi,id,uk,pl,de,ja,ar,fa,es,fr,it,nl,tc,pt,ru,ko,he,tr",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
-  "VITE_CUSTOM_PNL_POSTER_COUNT": "1",
+  "VITE_CUSTOM_PNL_POSTER_COUNT": "3",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "",
   "VITE_ANALYTICS_SCRIPT": "",
   "VITE_SYMBOL_LIST": "",
