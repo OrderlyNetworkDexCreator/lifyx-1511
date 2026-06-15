@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TELEGRAM_URL": "https://lifyx.exchange/",
   "VITE_DISCORD_URL": "https://lifyx.exchange/",
   "VITE_TWITTER_URL": "https://lifyx.exchange/",
-  "VITE_SEO_SITE_NAME": "https://lifyx.exchange/",
+  "VITE_SEO_SITE_NAME": "LifyX Perpetual Dex",
   "VITE_SEO_SITE_DESCRIPTION": "",
   "VITE_SEO_SITE_URL": "https://dex.lifyx.exchange",
   "VITE_SEO_SITE_LANGUAGE": "en",
